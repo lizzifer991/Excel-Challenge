@@ -5,10 +5,22 @@ This assignment was to show knowledge obtained with various codes in Excel Sprea
 <br>
 We were given a preload Excel spreadsheet with KickStarter Campaigns. <br>
 * The goal was to show ability to use conditional filters on the file, create additional columns based on the data to show: <br>
+#### Color Conditional's for State of Campaign
+**Success**
+![Success Condition](Images/Success.jpg)
+**Failed**
+![Failed Condition](Images/Failed.jpg)<br>
+**Live**
+![Live Condition](Images/Live.jpg)
+**Canceled**
+![Canceled Condition](Images/Canceled.jpg)<br>
+<br>
+* Create new Columns to show:<br>
     1.`Percent Funded` <br>
     2.`Average Donation` <br>
     3.`Category` <br>
     4.`Sub-Category`<br>
+![New Columns](Images/NewRows.jpg)<br>
 * Create a column named `Date Created Coversion` that uses the formula to convert the data from the `launched_at` column to Excel's date format<br>
 * Create a column named `Date Ended Conversion` that uses the formula to convert the data from the `deadline` column to Excel's date format
 <br>
@@ -31,6 +43,3 @@ After completeing the various Pivot Charts and graphs we were to answer the foll
 * What are the three conclusions we can draw about the Kickstarted Campaigns?<br>
 * What are some limitations of this dataset?<br>
 * What are some other possible Table and/or graphs we could create?<br>
-
-
-
